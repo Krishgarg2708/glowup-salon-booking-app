@@ -1,0 +1,6 @@
+{
+  "name": "GlowUp Salon",
+  "description": "Premium mobile appointment booking application for custom salon styling, expert consultation, and beauty scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
