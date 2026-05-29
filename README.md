@@ -153,6 +153,9 @@ Features:
 * Premium neutral background
 * Brand-first experience
 
+<img width="327" height="676" alt="image" src="https://github.com/user-attachments/assets/2997874a-a428-4717-9409-34327edff3d0" />
+
+
 ---
 
 ## 2. Onboarding Screens
@@ -171,6 +174,8 @@ Includes:
 * CTA buttons
 * Spacious layouts
 
+<img width="333" height="677" alt="image" src="https://github.com/user-attachments/assets/7b7d5c73-f098-4286-9a29-6d646de42817" />
+
 ---
 
 ## 3. Login / Signup Screen
@@ -183,6 +188,8 @@ Features:
 * Clean mobile inputs
 * Large primary CTA
 * Mobile-first form UX
+
+<img width="323" height="674" alt="image" src="https://github.com/user-attachments/assets/7c3f94ce-287d-4c41-b48b-072ac79d3e2f" />
 
 ---
 
@@ -204,6 +211,8 @@ Bottom navigation:
 * Bookings
 * Explore
 * Profile
+
+<img width="335" height="685" alt="image" src="https://github.com/user-attachments/assets/cde585f7-4b2a-4acf-a262-d5772584a160" />
 
 ---
 
@@ -227,6 +236,8 @@ Each service card contains:
 * Rating
 * Touch-friendly spacing
 
+<img width="379" height="798" alt="image" src="https://github.com/user-attachments/assets/c63d3c62-ad7c-452e-86c4-bcd52abc4f41" />
+
 ---
 
 ## 6. Specialist Selection Screen
@@ -242,6 +253,8 @@ Users can browse stylists with:
 * Filter controls
 
 The layout is designed to build user trust quickly.
+
+<img width="406" height="811" alt="image" src="https://github.com/user-attachments/assets/41d4e72e-d7ec-4313-bf3d-49a09217cee0" />
 
 ---
 
@@ -266,6 +279,9 @@ The layout prioritizes:
 * confidence
 * minimal effort
 
+<img width="396" height="793" alt="image" src="https://github.com/user-attachments/assets/11fdec2f-4da8-4d94-aed4-c210d7c1d521" />  <img width="396" height="800" alt="image" src="https://github.com/user-attachments/assets/858c6352-edd6-4221-97b8-8ef8b64ed74e" />  
+
+
 ---
 
 ## 8. Appointment Summary Screen
@@ -283,6 +299,8 @@ Displays:
 
 This screen is designed to reduce booking hesitation.
 
+<img width="394" height="788" alt="image" src="https://github.com/user-attachments/assets/9f8ccb9e-ce1e-4873-b7db-5391858c9a6d" />
+
 ---
 
 ## 9. Booking Confirmation Screen
@@ -296,6 +314,9 @@ Includes:
 * Return home CTA
 
 The confirmation experience feels rewarding and polished.
+
+<img width="336" height="665" alt="image" src="https://github.com/user-attachments/assets/be7f7d61-161d-4e3e-9610-c3c6fc5dc1ee" />
+<img width="339" height="667" alt="image" src="https://github.com/user-attachments/assets/12c78316-1886-4a12-897a-77b76172f44d" />
 
 ---
 
@@ -313,6 +334,8 @@ Includes:
 * Rebook functionality
 * Organized booking cards
 
+<img width="332" height="672" alt="image" src="https://github.com/user-attachments/assets/e486c47a-a534-43e3-8cd8-6a307b53fc7a" />
+
 ---
 
 ## 11. Profile Screen
@@ -328,8 +351,30 @@ Contains:
 
 Clean account management UX is prioritized.
 
+<img width="324" height="660" alt="image" src="https://github.com/user-attachments/assets/3a67b8a7-07aa-4c34-99bf-4df424ff2f41" />
+
+---
 ---
 
+# Project Demo Video
+
+Watch the complete mobile app UI walkthrough and booking flow demonstration here:
+
+🔗 https://drive.google.com/file/d/1g_ao4h7LvQ6v4g2lK6gVjuPBCO4fmNvd/view?usp=sharing
+
+The demo video showcases:
+
+* Splash & onboarding experience
+* Login and signup screens
+* Home dashboard interface
+* Service and specialist selection flow
+* Appointment booking process
+* Booking confirmation screens
+* Profile and booking history pages
+* Mobile-first UI/UX design decisions
+* Premium visual design and interactions
+
+---
 # UX Principles
 
 The application follows real-world mobile UX best practices:
