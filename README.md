@@ -83,6 +83,7 @@ Design optimized for:
 
 ## UI Characteristics
 
+
 * Premium
 * Minimal
 * Elegant
