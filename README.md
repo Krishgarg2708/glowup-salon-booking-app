@@ -1,7 +1,6 @@
 # GlowUp Salon — Premium Mobile Appointment Booking App UI
 
 A modern, premium-quality mobile appointment booking application UI designed for a fictional luxury salon brand called GlowUp Salon.
-
 The application focuses on:
 
 * frictionless appointment booking
